@@ -1,0 +1,11 @@
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\bin\Debug\HublerDimensionRandomWalkers.exe
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\bin\Debug\HublerDimensionRandomWalkers.pdb
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\bin\Debug\HublerDimensionRandomWalkers.xml
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\HublerDimensionRandomWalkers.Main.resources
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\HublerDimensionRandomWalkers.Resources.resources
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\HublerDimensionRandomWalkers.exe
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\HublerDimensionRandomWalkers.xml
+c:\users\ccsr\documents\visual studio 2010\Projects\HublerDimensionRandomWalkers\obj\x86\Debug\HublerDimensionRandomWalkers.pdb
